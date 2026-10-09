@@ -1,18 +1,18 @@
 # Mapa da Apuração 2026
 
-Mapa interativo do Brasil com os resultados das Eleições Gerais 2026 por estado, para Presidente, Governador e Senado, no 1º e no 2º turno.
+Interactive map of Brazil showing the 2026 general election results by state, for President, Governor and Senate, in both the first and second rounds. The interface is in Portuguese.
 
-## Como usar
+## How to use
 
-Abra o `index.html` no navegador (precisa de internet). É um arquivo só, sem instalação.
+Open `index.html` in a browser (internet connection required). It is a single file with nothing to install.
 
-- Os dados vêm direto dos arquivos públicos do TSE e a página se atualiza sozinha a cada 30 segundos. Dá para mudar o intervalo ou desligar.
-- As abas no topo trocam entre Presidente, Governador e Senado.
-- Clique num estado para ver todos os candidatos e os outros cargos daquele estado.
-- Os botões acima do mapa colorem os estados por candidato, por partido ou pelo percentual de seções apuradas.
-- A tabela embaixo pode ser ordenada por qualquer coluna.
+- Data comes straight from the TSE's public result files, and the page refreshes itself every 30 seconds. You can change the interval or turn it off.
+- The tabs at the top switch between President, Governor and Senate.
+- Click a state to see every candidate and the other races in that state.
+- The buttons above the map color the states by candidate, by party, or by the share of voting sections already counted.
+- The table at the bottom can be sorted by any column.
 
-## Dados
+## Data
 
-- Resultados: arquivos de divulgação do TSE em [resultados.tse.jus.br](https://resultados.tse.jus.br/oficial/app/index.html), sem chave de API.
-- Contornos dos estados: malha do IBGE, embutida no HTML.
+- Results: public result files from the TSE (Brazil's Superior Electoral Court) at [resultados.tse.jus.br](https://resultados.tse.jus.br/oficial/app/index.html). No API key needed.
+- State outlines: IBGE (Brazilian Institute of Geography and Statistics) boundary data, embedded in the HTML.
