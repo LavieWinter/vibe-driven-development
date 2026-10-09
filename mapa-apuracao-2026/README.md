@@ -16,3 +16,4 @@ Open `index.html` in a browser (internet connection required). It is a single fi
 
 - Results: public result files from the TSE (Brazil's Superior Electoral Court) at [resultados.tse.jus.br](https://resultados.tse.jus.br/oficial/app/index.html). No API key needed.
 - State outlines: IBGE (Brazilian Institute of Geography and Statistics) boundary data, embedded in the HTML.
+- Public link: https://laviewinter.github.io/vibe-driven-development/mapa-apuracao-2026/
